@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.circle.demo",
+      "sha256_cert_fingerprints": [
+        "FD:E8:8C:CD:36:99:87:8C:E1:4E:E1:CC:45:E2:98:FA:30:DE:13:59:87:89:A4:C2:02:14:C4:77:93:BA:AE:03"
+      ]
+    }
+  }
+]
