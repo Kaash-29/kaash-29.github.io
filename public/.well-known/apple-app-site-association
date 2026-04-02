@@ -1,22 +1,13 @@
 {
-  "hosting": {
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
-    "appAssociation": "NONE",
-    "headers": [
+  "applinks": {
+    "details": [
       {
-        "source": "/.well-known/apple-app-site-association",
-        "headers": [
-          {
-            "key": "Content-Type",
-            "value": "application/json"
-          }
-        ]
+        "appID": "7L4UWK5B33.com.circle.demo",
+        "paths": ["*"]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": ["7L4UWK5B33.com.circle.demo"]
   }
 }
