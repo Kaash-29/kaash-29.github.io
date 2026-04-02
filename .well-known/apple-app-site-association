@@ -2,7 +2,7 @@
   "applinks": {
     "details" : [
       {
-        "appID": "7L4UWK5B33.com.circle.demo",
+        "appID": "com.circle.demo",
         "paths": ["*"]
       }
     ]
